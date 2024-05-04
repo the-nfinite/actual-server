@@ -16,10 +16,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@actual-app/web@npm:24.9.0":
-  version: 24.9.0
-  resolution: "@actual-app/web@npm:24.9.0"
-  checksum: 10c0/533ef1d9138db9242a98f43ab8a05dcec6f8aa93283fb2b1bfb932665c28294e6169c5a370bf27a1c6d173c1de2c4fb64401e6d3888673caad53a96b6f692760
+"@actual-app/web@file:actual/packages/desktop-client::locator=actual-sync%40workspace%3A.":
+  version: 24.5.0
+  resolution: "@actual-app/web@file:actual/packages/desktop-client#actual/packages/desktop-client::hash=ce8280&locator=actual-sync%40workspace%3A."
+  checksum: fb71cc78559cad78657e55260781887106335241aa610ec3519c092f0e21c065c036e17efe7f1cc3652501192612ed1c0f180cb0d856452d34c468ad1ca8a32f
   languageName: node
   linkType: hard
 
