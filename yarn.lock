@@ -18,8 +18,8 @@ __metadata:
 
 "@actual-app/web@file:actual/packages/desktop-client::locator=actual-sync%40workspace%3A.":
   version: 24.5.0
-  resolution: "@actual-app/web@file:actual/packages/desktop-client#actual/packages/desktop-client::hash=45188c&locator=actual-sync%40workspace%3A."
-  checksum: 0d92ba699f51e3af7e6aca38a17ff40434862b3641748a201bfa733cdd693d30f13f4e67f5a206f20ce4ee5c20474261fcaa75e2dbf97b19c08efcb4f9201ec3
+  resolution: "@actual-app/web@file:actual/packages/desktop-client#actual/packages/desktop-client::hash=13c003&locator=actual-sync%40workspace%3A."
+  checksum: 94ffc5d39c3d675adf3e9c39fdfa7da3b86e2ea51063068e69f93af73c6c4cc1eb4bd44d409e62ce29b8809fa0832e1c83b0c084b9e3f146b35e06b38281a65b
   languageName: node
   linkType: hard
 
