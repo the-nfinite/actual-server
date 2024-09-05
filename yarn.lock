@@ -17,9 +17,9 @@ __metadata:
   linkType: hard
 
 "@actual-app/web@file:actual/packages/desktop-client::locator=actual-sync%40workspace%3A.":
-  version: 24.5.0
-  resolution: "@actual-app/web@file:actual/packages/desktop-client#actual/packages/desktop-client::hash=13c003&locator=actual-sync%40workspace%3A."
-  checksum: 94ffc5d39c3d675adf3e9c39fdfa7da3b86e2ea51063068e69f93af73c6c4cc1eb4bd44d409e62ce29b8809fa0832e1c83b0c084b9e3f146b35e06b38281a65b
+  version: 24.7.0
+  resolution: "@actual-app/web@file:actual/packages/desktop-client#actual/packages/desktop-client::hash=5ff359&locator=actual-sync%40workspace%3A."
+  checksum: eca4fe3be2ed7fe1c456361d208917b14702ff6c3f772cfb2ea7eb23114be5afdd88dd2eab23908890d2979680b34e08b8957b090e5f94505361df928fa37ac8
   languageName: node
   linkType: hard
 
@@ -1844,7 +1844,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"bcrypt@npm:^5.1.1":
+"bcrypt@npm:^5.1.0":
   version: 5.1.1
   resolution: "bcrypt@npm:5.1.1"
   dependencies:
